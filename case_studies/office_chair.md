@@ -1,0 +1,2 @@
+# Office Chair CAD Blueprint Generation
+The contour skeletonizer submodule was used to generate a CAD blueprint for an office chair. The input image was a photo of the chair, and the output was a CAD blueprint that could be used for manufacturing.
