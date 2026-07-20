@@ -73,3 +73,6 @@ The submodule currently only supports generating CAD blueprints for simple furni
 * Improve the submodule to support more complex furniture pieces.
 ## License
 MIT License
+
+---
+**Last updated:** 2026-07-20
