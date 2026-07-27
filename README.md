@@ -76,3 +76,10 @@ MIT License
 
 ---
 **Last updated:** 2026-07-20
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
