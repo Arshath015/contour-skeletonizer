@@ -75,7 +75,7 @@ The submodule currently only supports generating CAD blueprints for simple furni
 MIT License
 
 ---
-**Last updated:** 2026-07-20
+**Last updated:** 2026-07-30
 
 
 ## Requirements
